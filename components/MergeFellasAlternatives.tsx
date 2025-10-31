@@ -70,7 +70,7 @@ export function Hot51ModApkFeatures({ pageType = "single" }: Hot51ModApkFeatures
 
   return (
     <section>
-      <div className="max-w-7xl mx-auto px-6 py-16 flex flex-col lg:flex-row gap-5">
+      <div className="max-w-7xl mx-auto px-6 py-8 flex flex-col lg:flex-row gap-5">
         {/* Left side sticky content */}
         <div className="flex flex-col gap-6 lg:sticky lg:top-[110px] lg:max-w-xs lg:self-start">
           <h2 className="text-3xl font-extrabold leading-tight max-w-xs text-gray-900 dark:text-white">
