@@ -13,6 +13,7 @@ export async function GET() {
     const staticPages = [
       { url: `${baseUrl}/`, priority: "1.00" },  
       { url: `${baseUrl}/blog`, priority: "1.00" }, 
+      { url: `${baseUrl}/about-us`, priority: "1.00" }, 
       { url: `${baseUrl}/download`, priority: "1.00" }, 
         
       
