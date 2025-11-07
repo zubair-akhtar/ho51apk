@@ -95,7 +95,7 @@ export const metadata: Metadata = {
     "msapplication-TileColor": " #AB1479",
   },
   verification: {
-    // google: "1Pfzk35p8vZiv2Qmddb2pRf9UqbmRjCIe9MlLUPYloA",
+    google: "94XZLnpuEmL8LUEHfPSk9EQRCPxavxKkbkILuFGF6vk",
   } 
 }
 
@@ -165,9 +165,9 @@ export default function RootLayout({
         </ThemeProvider>
         
         {/* Google Analytics */}
-        {/* <script
+        <script
           async
-          src="https://www.googletagmanager.com/gtag/js?id=G-FM1DJPVZW0"
+          src="https://www.googletagmanager.com/gtag/js?id=G-PR08GS9PRS"
         />
         <script
           dangerouslySetInnerHTML={{
@@ -175,10 +175,10 @@ export default function RootLayout({
               window.dataLayer = window.dataLayer || [];
               function gtag(){dataLayer.push(arguments);}
               gtag('js', new Date());
-              gtag('config', 'G-FM1DJPVZW0');
+              gtag('config', 'G-PR08GS9PRS');
             `,
           }}
-        /> */}
+        />
       </body>
     </html>
   )
