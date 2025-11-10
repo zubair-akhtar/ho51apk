@@ -36,6 +36,20 @@ const nextConfig = {
       },
     ]
   },
+  async redirects() {
+    return [
+      {
+        source: '/blog/hot51-mod-apk-no-ads-version',
+        destination: '/',
+        permanent: true,
+      },
+      {
+        source: '/blog/hot51-mod-apk-unlimited-money-and-credits',
+        destination: '/',
+        permanent: true,
+      },
+    ]
+  },
 }
 
 export default nextConfig
