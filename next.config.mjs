@@ -34,6 +34,10 @@ const nextConfig = {
         source: '/robots.txt',
         destination: '/api/robots',
       },
+      {
+        source: '/ads.txt',
+        destination: '/api/ads.txt',
+      },
     ]
   },
   async redirects() {
