@@ -32,7 +32,7 @@ export function MergeFellasMainContent() {
                 </tr>
                 <tr>
                   <td className="border border-border p-3 font-semibold bg-muted">Version</td>
-                  <td className="border border-border p-3">v2.1.5</td>
+                  <td className="border border-border p-3">v1.1.590</td>
                 </tr>
                 <tr>
                   <td className="border border-border p-3 font-semibold bg-muted">Size</td>

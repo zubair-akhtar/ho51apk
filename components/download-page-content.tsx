@@ -6,14 +6,14 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Badge } from "@/components/ui/badge"
 import { Download, Smartphone, Shield, Zap, CheckCircle, Clock, Coins, Video, Globe } from "lucide-react"
 
-const defaultDownloadURL = "https://dl.hot51apkdl.com/file/Hot51apk/HOT51-hot51apkdl.com.apk";
+const defaultDownloadURL = "https://f005.backblazeb2.com/file/Hot51apk/HOT51-hot51apkdl.com.apk";
 const staticAPKData = {
   name: "HOT51",
   versions: [
     {
-      version: "2.1.5",
-      size: "38 MB",
-      download_url: "https://dl.hot51apkdl.com/file/Hot51apk/HOT51-hot51apkdl.com.apk",
+      version: "1.1.590",
+      size: "58 MB",
+      download_url: "https://f005.backblazeb2.com/file/Hot51apk/HOT51-hot51apkdl.com.apk",
     }
   ],
 };

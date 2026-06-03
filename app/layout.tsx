@@ -9,7 +9,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
-  title: "Download Hot51 MOD APK v2.1.5 For Android | Unlocked All",
+  title: "Download Hot51 MOD APK v1.1.590 For Android | Unlocked All",
   description:
     "Download Hot51 Mod APK for free on Android & iOS. Enjoy HD live streaming, exclusive content, online games, and ad-free entertainment.",
   keywords: "HOT51 Mod APK, unlimited coins, premium unlocked, ad-free streaming, HD live streaming, free download, VIP membership, virtual gifts, live entertainment, real-time interaction",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@Hot51",
     creator: "@Hot51",
-    title: "Download Hot51 MOD APK v2.1.5 For Android | Unlocked All",
+    title: "Download Hot51 MOD APK v1.1.590 For Android | Unlocked All",
     description:
       "Download Hot51 Mod APK for free on Android & iOS. Enjoy HD live streaming, exclusive content, online games, and ad-free entertainment.",
     images: {

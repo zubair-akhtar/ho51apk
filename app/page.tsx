@@ -12,11 +12,11 @@ import { Hot51DownloadGuide } from '@/components/Hot51DownloadGuide'
 import PlayStoreStyleApp from '@/components/PlayStoreStyleApp'
 
 export const metadata: Metadata = {
-  title: "Download Hot51 MOD APK v2.1.5 For Android | Unlocked All",
+  title: "Download Hot51 MOD APK v1.1.590 For Android | Unlocked All",
   description:
     "Download Hot51 Mod APK for free on Android & iOS. Enjoy HD live streaming, exclusive content, online games, and ad-free entertainment.",
   openGraph: {
-    title: "Download Hot51 MOD APK v2.1.5 For Android | Unlocked All",
+    title: "Download Hot51 MOD APK v1.1.590 For Android | Unlocked All",
     description:
       "Download Hot51 Mod APK for free on Android & iOS. Enjoy HD live streaming, exclusive content, online games, and ad-free entertainment.",
     type: "website",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Download Hot51 MOD APK v2.1.5 For Android | Unlocked All",
+    title: "Download Hot51 MOD APK v1.1.590 For Android | Unlocked All",
     description:
       "Download Hot51 Mod APK for free on Android & iOS. Enjoy HD live streaming, exclusive content, online games, and ad-free entertainment.",
   },
@@ -82,9 +82,9 @@ export default async function HomePage() {
             __html: JSON.stringify({
               "@context": "https://schema.org/",
               "@type": "Website",
-              name: "Download Hot51 MOD APK v2.1.5 For Android | Unlocked All",
+              name: "Download Hot51 MOD APK v1.1.590 For Android | Unlocked All",
               url: "https://hot51apkdl.com/",
-              headline: "Download Hot51 MOD APK v2.1.5 For Android | Unlocked All",
+              headline: "Download Hot51 MOD APK v1.1.590 For Android | Unlocked All",
               description:
                 "Download Hot51 Mod APK for free on Android & iOS. Enjoy HD live streaming, exclusive content, online games, and ad-free entertainment.",
               image: "https://hot51apkdl.com/images/featured.webp",
