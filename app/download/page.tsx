@@ -6,7 +6,7 @@ import type { Metadata } from "next"
 export const metadata: Metadata = {
   title: "Download HOT51 Mod APK v1.1.590 - Latest Version | Unlimited Coins & Premium Unlocked",
   description:
-    "Download HOT51 Mod APK latest version 2.1.5 for Android & iOS. Enjoy HD live streaming, unlimited coins, premium access, ad-free experience, and exclusive content for free.",
+    "Download HOT51 Mod APK latest version 1.1.590 for Android & iOS. Enjoy HD live streaming, unlimited coins, premium access, ad-free experience, and exclusive content for free.",
   keywords: "HOT51 Mod APK download, HOT51 latest version, unlimited coins, premium unlocked, ad-free streaming, HOT51 APK free download, live streaming app",
   openGraph: {
     title: "Download HOT51 Mod APK v1.1.590 - Latest Version | Unlimited Coins & Premium Unlocked",
@@ -80,7 +80,7 @@ export default function DownloadPage() {
             },
             description: "Download HOT51 Mod APK with unlimited coins, premium features unlocked, and ad-free HD live streaming.",
             downloadUrl: "https://hot51apkdl.com/download",
-            softwareVersion: "2.1.5",
+            softwareVersion: "1.1.590",
             fileSize: "38MB",
             breadcrumb: {
               "@type": "BreadcrumbList",

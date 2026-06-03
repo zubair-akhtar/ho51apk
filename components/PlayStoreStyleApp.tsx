@@ -193,11 +193,11 @@ useEffect(() => {
       <div className="grid grid-cols-3 md:grid-cols-3 gap-6 text-sm">
         <div>
           <span className="font-semibold mb-2 block">Version</span>
-          <p className="text-gray-600 dark:text-gray-400">2.1.5</p>
+          <p className="text-gray-600 dark:text-gray-400">1.1.590 </p>
         </div>
         <div>
           <span className="font-semibold mb-2 block">Size</span>
-          <p className="text-gray-600 dark:text-gray-400">38MB</p>
+          <p className="text-gray-600 dark:text-gray-400">58MB</p>
         </div>
         <div>
           <span className="font-semibold mb-2 block">Requirements</span>
